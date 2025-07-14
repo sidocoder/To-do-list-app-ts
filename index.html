@@ -5,19 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>To do list</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 </head>
 <body>
     <div class="container">
-        <h2>Welcome to <span>Todo list app</span></h2>
+        <p>Welcome to <span>Todo list app</span></p>
+        <hr>
         <h1>To do list</h1>
-        <ul></ul>
+        <ul id="task-list"></ul>
         <div class="input-group">
             <input type="text" placeholder="Add a new task..." id="taskInput">
-            <button id="plus-button">+</button>
+            <button id="plus-btn">+</button>
         </div>
     </div>
-
-
-    
+    <script src="todo.js"></script>
 </body>
 </html>

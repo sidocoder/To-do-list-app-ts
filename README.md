@@ -14,5 +14,31 @@ A simple and responsive To-Do List application built with **TypeScript**, **HTML
 
 ---
 
+## 🧪 Technologies Used
+- HTML5
+
+- CSS3
+
+- JavaScript 
+
+- Typescript
 ## 📸 Screenshots
+
+### 1. No task available
+before the tasks are added:
+![alt text](images/Screenshot%202025-07-14%20215245.png)
+### 2. Add task
+Type a task into the input field and click "+ Add Task".
+The task will be added to your list.
+![alt text](<images/Screenshot 2025-07-14 215323.png>)
+### 3. Edit task
+To update a task, click the Edit button.
+A popup will let you change the task text.
+![alt text](<images/Screenshot 2025-07-14 215407.png>)
+![alt text](<images/Screenshot 2025-07-14 222747.png>)
+### 4. Complete task
+Click the checkbox beside a task to mark it as completed.
+Completed tasks appear with a line-through style or a different color.
+![alt text](<images/Screenshot 2025-07-14 222808.png>)
+
 
